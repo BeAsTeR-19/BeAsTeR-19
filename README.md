@@ -27,7 +27,7 @@ Here are a few repositories I'm currently highlighting:
 ## 💬 Connect With Me
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ujjwalsmart)
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:your.email@dhunganaujjwal94@gmail.com)
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:dhunganaujjwal94@gmail.com)
 
 ##  I love connecting with different people so if you wanna say hi, I'd be even more delighted to meet you!
 
