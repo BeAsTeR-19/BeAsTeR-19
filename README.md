@@ -26,10 +26,12 @@ Here are a few repositories I'm currently highlighting:
 
 ## 💬 Connect With Me
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ujjwalsmart)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ujjwal-dhungana-99746038b/)
+
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:dhunganaujjwal94@gmail.com)
 
-##  I love connecting with different people so if you wanna say hi, I'd be even more delighted to meet you!
+
+I love connecting with different people so if you wanna say hi, I'd be even more delighted to meet you!
 
 <!---
 BeAsTeR-19/BeAsTeR-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
