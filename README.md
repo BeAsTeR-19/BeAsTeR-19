@@ -18,9 +18,9 @@
 
 Here are a few repositories I'm currently highlighting:
 
-* [**ML Classifier Project**](https://github.com/yourusername/your-ml-repo): My first attempt at a Scikit-learn model, focused on classification.
-* [**Python Snake Game**](https://github.com/yourusername/python-snake-game): A classic game recreation demonstrating basic Python logic and game development principles.
-* [**Data Visualization**](https://github.com/yourusername/data-viz-repo): Exploring Matplotlib and Seaborn for data storytelling.
+* [**ML Classifier Project**](AI_Paddy_Yield_Predictor): A ML study to predict paddy yields in rural villages.
+* [**Python Snake Game**](snake_game): A classic game recreation demonstrating basic Python logic and game development principles.
+* [**Data Visualization**](BloodBankApp): A web app prototype designed to bridge the gap between donors and recipients by providing real-time tracking of blood availability and emergency request alerts.
 
 ---
 
