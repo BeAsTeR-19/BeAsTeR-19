@@ -1,6 +1,6 @@
 # Hello! I'm Ujjwal Dhungana.
 
-### A-Level graduate and aspiring AI Developer. Building a foundational portfolio with Python projects focused on data analysis, machine learning fundamentals, and algorithmic problem-solving. 
+### A-Level graduate and aspiring AI Developer. Founder of [Pilot Compass Test Nepal Software](pilotcompasstest.com) and [Aft A Level](afteralevel.com). Building a foundational portfolio with Python projects focused on data analysis, machine learning fundamentals, and algorithmic problem-solving. 
 
 ---
 
